@@ -1,22 +1,22 @@
 {
-  "name": "tembak-ikan-joker123-gaming",
+  "name": "tembak-ikan-spadegaming",
   "main": "tembak-fastspin",
   "theme": "ui",
   "version": "1.38.0",
-  "description": "LEXUSMPO || Tembak Ikan Joker123 Gaming Terpercaya Indonesia",
+  "description": "LEXUSMPO || Tembak Ikan SpadeGaming Terepercaya Indonesia",
   "keywords": [
-    "tembak ikan joker123 ",
+    "tembak ikan spadegaming ",
     "tembak ikan ",
-    "tembak ikan joker123 ovo",
-    "tembak ikan joker123 dana",
-    "tembak ikan joker123 gopay",
-    "tembak ikan joker123 pulsa",
-    "joker123 gaming"
+    "tembak ikan spadegaming ovo",
+    "tembak ikan spadegaming dana",
+    "tembak ikan spadegaming gopay",
+    "tembak ikan spadegaming pulsa",
+    "spade gaminggaming"
   ],
   "activationCommands": {
-    "atom-workspace": "ikan-joker123-gaming:toggle"
+    "atom-workspace": "ikan-spadegaming-gaming:toggle"
   },
-  "repository": "https://github.com/ranahlexusmpo/joker123-gaming.git",
+  "repository": "https://github.com/ranahlexusmpo/spade-gaming-tembak.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
